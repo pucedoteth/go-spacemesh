@@ -1,7 +1,7 @@
 # Overview
 Thank you for considering to contribute to the go-spacemesh open source project. We welcome contributions large and small and we actively accept contributions.
 
-- go-spacemesh is part of [The Spacemesh open source project](https://spacemesh.io), and is MIT licensed free open source software.
+- Go-spacemesh is part of [The Spacemesh open source project](https://spacemesh.io), and is MIT licensed free open source software.
 - Please make sure to scan the [open issues](https://github.com/spacemeshos/go-spacemesh/issues). 
 - Search the closed ones before reporting things, and help us with the open ones.
 - Make sure that you are able to contribute to MIT licensed free open software (no legal issues please).
